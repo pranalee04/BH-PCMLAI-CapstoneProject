@@ -22,5 +22,9 @@ The complete analysis, including observations,commentss so all the work done is 
 [practical-assignment-3.ipynb](https://[github.com/pranalee04/BH-PCMLAI-Module17-PracticalApplication-3](https://github.com/pranalee04/BH-PCMLAI-CapstoneProjec/blob/main/notebook/practical-assignment-3.ipynb)
 ## Conclusion
 
+Random Forest Classifier followed by Extra Tree Classifier were the best model for detecting malacious URL in the `malicious_phish.csv` dataset
 ## Next Steps
 
+1. Improve above explored models, play with various hyper parameters.
+2. Put the model to practical use
+3. I wanted to  explore LSTM and Deep learning for the malacious URL problem
