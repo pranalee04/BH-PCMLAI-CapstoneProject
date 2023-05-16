@@ -19,12 +19,12 @@ The methodology of this project includes data collection, data cleaning, explora
 The programming language used is Python, and the libraries used were: Pandas, Plotly, Seaborn, Matplotlib, Numpy , Sklearn,Statsmodels,plotly.io,colorama, urllib.parse,tld,re
 ## Code and Analysis
 The complete analysis, including observations,commentss so all the work done is contained in the following Jupiter Notebook:
-[practical-assignment-3.ipynb](https://[github.com/pranalee04/BH-PCMLAI-Module17-PracticalApplication-3](https://github.com/pranalee04/BH-PCMLAI-CapstoneProjec/blob/main/notebook/practical-assignment-3.ipynb)
+[capstoneproject.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/capstoneproject.ipynb)
+## Result
+Model comparison can be see in the [bar-plot](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/notebook/images/ModelAccuracyComparison)
 ## Conclusion
-
 Random Forest Classifier followed by Extra Tree Classifier were the best model for detecting malacious URL in the `malicious_phish.csv` dataset
 ## Next Steps
-
 1. Improve above explored models, play with various hyper parameters.
 2. Put the model to practical use
 3. I wanted to  explore LSTM and Deep learning for the malacious URL problem
