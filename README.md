@@ -16,9 +16,10 @@ The methodology of this project includes data collection, data cleaning, explora
 3. data and 
 4. README.md
 ## Programming language
-The programming language used is Python, and the libraries used were: Pandas, Plotly, Seaborn, Matplotlib, Numpy , Sklearn,Statsmodels
+The programming language used is Python, and the libraries used were: Pandas, Plotly, Seaborn, Matplotlib, Numpy , Sklearn,Statsmodels,plotly.io,colorama, urllib.parse,tld,re
 ## Code and Analysis
-
+The complete analysis, including observations,commentss so all the work done is contained in the following Jupiter Notebook:
+[practical-assignment-3.ipynb](https://[github.com/pranalee04/BH-PCMLAI-Module17-PracticalApplication-3](https://github.com/pranalee04/BH-PCMLAI-CapstoneProjec/blob/main/notebook/practical-assignment-3.ipynb)
 ## Conclusion
 
 ## Next Steps
