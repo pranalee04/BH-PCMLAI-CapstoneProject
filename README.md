@@ -25,7 +25,7 @@ The programming language used is Python, and the libraries used were: Pandas, Pl
 ## Code,data processing, modelling and analysis
 The complete analysis, including observations,commentss so all the work done is contained in the following Jupiter Notebook and Report.pdf:
 1. Data processing, plots and data analysis is is contained in the following Jupiter Notebook [FeaturePreprocessingAndAnalysis-1.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/FeaturePreprocessingAndAnalysis-1.ipynb)
-## Code and Analysis
+
 2. Baseline model exploration is contained in the following Jupiter Notebook [ModelExperimentationAndAnalysis-2.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/ModelExperimentationAndAnalysis-2.ipynb)
 3. Advance model exploration is contained in the following Jupiter Notebook [AdvanceModelingExperimentation-3.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/AdvanceModelingExperimentation-3.ipynb)
 4. Exploation of Nerual Networks Keras Tensorflow models contained in the following Jupiter Notebook [KerasTensorflowExperimentation-4.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/KerasTensorflowExperimentation-4.ipynb)
@@ -33,8 +33,8 @@ The complete analysis, including observations,commentss so all the work done is 
 6. Selcted modle RandomForestClassifie and its hyperparameter tuning and analysis is contained in the following Jupiter Notebook  [SelectedModel-RandomForestClassifier-6.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/SelectedModel-RandomForestClassifier-6.ipynb)
 
 ## Result
-1. Processed dataset saved in CSV file:[maliciousurl_processed.csv](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/notebook/data/maliciousurl_processed.csv)
-2. Model comparison can be see in the [bar-plot](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/notebook/images/ModelAccuracyComparison)
+1. Processed dataset saved in CSV file:[maliciousurl_processed.csv](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/data/finaldataset/maliciousurl_processed.csv)
+2. Model comparison can be see in the [bar-plot](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/notebook/images/model-accuracy-comparision.png)
 3. ExtraTreeClassifier model gave the best accuracy, however RandomForestClassifier and LGBMClassifier were selected for futher evaluation.
 4. The finding were summerized in the report[Report.pdf](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/Report.pdf)
 
