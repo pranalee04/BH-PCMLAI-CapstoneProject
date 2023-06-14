@@ -36,7 +36,7 @@ The complete analysis, including observations,commentss so all the work done is 
 1. Processed dataset saved in CSV file:[maliciousurl_processed.csv](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/data/finaldataset/maliciousurl_processed.csv)
 2. Model comparison can be see in the [bar-plot](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/notebook/images/model-accuracy-comparision.png)
 3. ExtraTreeClassifier model gave the best accuracy, however RandomForestClassifier and LGBMClassifier were selected for futher evaluation.
-4. The finding were summerized in the report[Report.pdf](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/Report.pdf)
+4. The finding were summerized in the report [Report.pdf](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/Report.pdf)
 
 ## Next Steps
 1. Experiment further with hyperparameter to identity the best fit for the selected model
