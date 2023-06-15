@@ -31,11 +31,12 @@ The complete analysis, including observations,commentss so all the work done is 
 4. Exploation of Nerual Networks Keras Tensorflow models contained in the following Jupiter Notebook [KerasTensorflowExperimentation-4.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/KerasTensorflowExperimentation-4.ipynb)
 5. Selcted modle LGBMClassifier and its hyperparameter tuning and analysis is contained in the following Jupiter Notebook  [SelectedModel-LGBMClassifier-5.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/SelectedModel-LGBMClassifier-5.ipynb)
 6. Selcted modle RandomForestClassifie and its hyperparameter tuning and analysis is contained in the following Jupiter Notebook  [SelectedModel-RandomForestClassifier-6.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/SelectedModel-RandomForestClassifier-6.ipynb)
+7. Selcted modle RandomForestClassifie and its hyperparameter tuning and analysis is contained in the following Jupiter Notebook  [FinalSelectedModel-XGBClassifier-7.ipynb](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/notebook/FinalSelectedModel-XGBClassifier-7.ipynb)
 
 ## Result
 1. Processed dataset saved in CSV file:[maliciousurl_processed.csv](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/blob/main/data/finaldataset/maliciousurl_processed.csv)
 2. Model comparison can be see in the [bar-plot](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/notebook/images/model-accuracy-comparision.png)
-3. ExtraTreeClassifier model gave the best accuracy, however RandomForestClassifier and LGBMClassifier were selected for futher evaluation.
+3. ExtraTreeClassifier model gave the best accuracy in initial investigation, however XGBClassifier, RandomForestClassifier and LGBMClassifier were selected for futher evaluation baseed on accuracy and feature impact.
 4. The finding were summerized in the report [Report.pdf](https://github.com/pranalee04/BH-PCMLAI-CapstoneProject/tree/main/Report.pdf)
 
 ## Next Steps
